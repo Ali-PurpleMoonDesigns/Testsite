@@ -1,0 +1,379 @@
+@media (min-width: 600px){
+
+
+.site-branding {
+    width: 20%;    
+}
+
+ul.tbcd {
+    display: inline-block;
+}
+
+ul.tbcd li {
+    display: inherit;	
+    padding: 0 10px;
+}
+
+
+.tb-contact-details.cell {
+    width: 60%;
+}
+
+.tb-social.cell {
+    width: 20%;
+}
+	
+
+.empty-tb.cell {
+    width: 20%;
+}
+.tb-social.cell {
+    text-align: right;
+}
+.tb-social.cell {
+    width: 20%;
+}
+
+ul.social-list li {
+    padding: 0 0 0 15px;
+}	
+}
+
+@media (min-width: 768px){
+
+
+button.submit {
+    margin-right: 0;	
+}
+
+.footer-col input[type="email"] {
+    width: calc(100% - 40px);
+}
+	
+.full-width {
+    padding: 50px;
+}
+.footer-col {
+    text-align: left;
+}
+	
+.mobile-menu-box {
+    display: none;
+}
+	
+div#menu-nav {
+    display: table-cell;
+    vertical-align: middle;
+    width: 60%;
+}
+
+.mobile-nav {
+    display: none;
+}
+	
+ul#primary-menu {
+    display: inline-block;
+    text-align: right;
+    width: 100%;
+    padding: 0 20px;
+}
+
+ul#primary-menu li {
+    display: inherit;
+    padding: 0 10px;
+}
+
+ul#primary-menu a {
+    color: #707070;
+}
+
+
+.single-team img {
+    height: 450px;
+}
+
+.footer-social {
+    margin-top: 30px;
+}
+
+.footer-col ul.tbcd {
+    text-align: left;
+}
+
+nav#footer-navigation ul#primary-menu {
+    text-align: left;
+}
+	
+/* global */	
+	
+.cnt_10{
+	width: 25%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_20{
+	width: 50%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_25{
+	width: 50%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_30{
+	width: 50%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_33{
+	width: 50%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+	
+ul#primary-menu li.current-menu-item a {
+    color: var(--blue);
+}	
+}
+
+@media (min-width: 1024px){
+
+	
+
+.cnt_15{
+	width: 15%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_20{
+	width: 20%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_35{
+	width: 35%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+	
+
+.footer-social {
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.header-btn {
+    display: table-cell;
+    vertical-align: middle;
+    width: 20%;
+	text-align: center;
+}	
+
+ul#primary-menu {
+    text-align: center;
+}
+	
+.full-width {
+    background-color: var(--blue);
+    padding: 50px;
+    max-width: 650px;
+    margin: 0 0 0 auto;
+}
+/* global */
+
+
+.margin-right{
+	margin: 0 20px 0 0;
+}	
+	
+.margin-left{
+	margin: 0 0 0 20px;
+}	
+	
+.row {
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.table {
+    display: table;
+}
+
+.cell {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.block{
+	display: inline-block;
+}
+
+.short {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.cnt_10{
+	width: 10%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_20{
+	width: 20%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_25{
+	width: 25%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_30{
+	width: 30%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_33{
+	width: 33.33333%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_40 {
+    width: 40%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_50 {
+    width: 50%;
+    -ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_60 {
+    width: 60%;
+	-ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_70 {
+    width: 70%;
+	-ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_80 {
+    width: 80%;
+	-ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_90 {
+    width: 90%;
+	-ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;
+}
+
+.cnt_full{
+    width: 100%;
+	-ms-flex-pack: inherit;
+    -webkit-justify-content: inherit;
+    justify-content: inherit;	
+}	
+
+.col-stats {
+    text-align: center;
+    padding: 0;
+}
+
+.empty-col {
+    width: 50%;
+}
+
+.col {
+    width: 50%;
+}
+
+.about-stats {
+    display: flex;
+}
+
+.col-stats.bg-yellow {
+    position: absolute;
+    top: 0;
+    height: 50%;
+    width: 100%;
+    right: 0;
+    text-align: center;
+    display: grid;
+    align-items: center;
+}
+
+.col-stats.bg-white {
+    position: absolute;
+    bottom: -1px;
+    height: calc(50% + 1px);
+    width: 100%;
+    right: 0;
+    text-align: center;
+    display: grid;
+    align-items: center;
+}
+	
+.footer-col {
+    margin: 0 20px;
+}
+	
+}
+
+@media (min-width: 1200px){
+
+
+
+section.about-us .bg-image {
+    background-image: url(http://devmoi.local/wp-content/uploads/2022/05/doctor-counselling-soldier-suffering-from-stress-2021-08-26-16-12-47-utc.jpg);
+}
+	
+.col-stats.bg-yellow {
+    width: 50%;
+}
+
+.col-stats.bg-white {
+    width: 50%;
+}
+}
